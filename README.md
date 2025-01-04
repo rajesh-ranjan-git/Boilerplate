@@ -11,4 +11,4 @@
 3. Next + React + JS
 4. Next + React + TS
 
-## All have Tailwind CSS configured with postcss and autoprefixer
+## All the boilerplate codes have Tailwind CSS configured and working.
